@@ -1,6 +1,3 @@
-# .github
-Community guidelines and funding configuration for ConnectApp open-source projects
-
 # ConnectApp
 
 ### Open Source Software · Privacy First · Freedom to Create
